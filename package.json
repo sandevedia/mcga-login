@@ -1,0 +1,27 @@
+{
+  "name": "mcga-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandevedia/mcga-login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7",
+    "nodemon": "^1.19.4"
+  },
+  "bugs": {
+    "url": "https://github.com/sandevedia/mcga-login/issues"
+  },
+  "homepage": "https://github.com/sandevedia/mcga-login#readme"
+}
